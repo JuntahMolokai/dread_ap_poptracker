@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Trick: Knowledge",
+    "type": "consumable",
+    "codes": "trick_knowledge",
+    "img": "images/tricks/trick_knowledge.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Movement",
+    "type": "consumable",
+    "codes": "trick_movement",
+    "img": "images/tricks/trick_movement.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Combat",
+    "type": "consumable",
+    "codes": "trick_combat",
+    "img": "images/tricks/trick_combat.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Pseudo-Wave Beam",
+    "type": "consumable",
+    "codes": "trick_pseudo",
+    "img": "images/tricks/trick_pseudo.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Infinite Bomb Jump",
+    "type": "consumable",
+    "codes": "trick_ibj",
+    "img": "images/tricks/trick_ibj.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Water Bomb Jump",
+    "type": "consumable",
+    "codes": "trick_wbj",
+    "img": "images/tricks/trick_wbj.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Water Space Jump",
+    "type": "consumable",
+    "codes": "trick_wsj",
+    "img": "images/tricks/trick_wsj.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Single-wall Wall Jump",
+    "type": "consumable",
+    "codes": "trick_swj",
+    "img": "images/tricks/trick_swj.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Slide Jump",
+    "type": "consumable",
+    "codes": "trick_slide",
+    "img": "images/tricks/trick_slide.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Speed Booster Conservation",
+    "type": "consumable",
+    "codes": "trick_speedbooster",
+    "img": "images/tricks/trick_speedbooster.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Wall Jump",
+    "type": "consumable",
+    "codes": "trick_walljump",
+    "img": "images/tricks/trick_walljump.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Heat/Cold Runs",
+    "type": "consumable",
+    "codes": "trick_suitless",
+    "img": "images/tricks/trick_suitless.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Reverse Grapple Block",
+    "type": "consumable",
+    "codes": "trick_rgrapple",
+    "img": "images/tricks/trick_rgrapple.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Damage Boost",
+    "type": "consumable",
+    "codes": "trick_dboost",
+    "img": "images/tricks/trick_dboost.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Stand on Frozen Enemy",
+    "type": "consumable",
+    "codes": "trick_frozenenemy",
+    "img": "images/tricks/trick_frozenenemy.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Grapple Movement",
+    "type": "consumable",
+    "codes": "trick_grapplemovement",
+    "img": "images/tricks/trick_grapplemovement.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Cross Bomb Skip",
+    "type": "consumable",
+    "codes": "trick_crossskip",
+    "img": "images/tricks/trick_crossskip.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Climb Sloped Tunnels",
+    "type": "consumable",
+    "codes": "trick_tunnelslope",
+    "img": "images/tricks/trick_tunnelslope.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Short Boost",
+    "type": "consumable",
+    "codes": "trick_shortboost",
+    "img": "images/tricks/trick_shortboost.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Diffusion Abuse",
+    "type": "consumable",
+    "codes": "trick_diffusionabuse",
+    "img": "images/tricks/trick_diffusionabuse.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Flash Shift Skip",
+    "type": "consumable",
+    "codes": "trick_flashskip",
+    "img": "images/tricks/trick_flashskip.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Diagonal Bomb Jump",
+    "type": "consumable",
+    "codes": "trick_dbj",
+    "img": "images/tricks/trick_dbj.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Ledge Warp",
+    "type": "consumable",
+    "codes": "trick_ledgewarp",
+    "img": "images/tricks/trick_ledgewarp.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Cross Bomb Launch",
+    "type": "consumable",
+    "codes": "trick_cbl",
+    "img": "images/tricks/trick_cbl.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Floor Clip",
+    "type": "consumable",
+    "codes": "trick_floorclip",
+    "img": "images/tricks/trick_floorclip.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Trick: Climb Sloped Surfaces",
+    "type": "consumable",
+    "codes": "trick_slopeclimb",
+    "img": "images/tricks/trick_slopeclimb.png",
+    "min_quantity": 0,
+    "max_quantity": 5,
+    "initial_quantity": 1,
+    "overlay_background": "#000000"
+  }
+]

@@ -1,0 +1,3 @@
+[submodule "external/dread_ap"]
+	path = external/dread_ap
+	url = https://github.com/mdietz94/dread_ap

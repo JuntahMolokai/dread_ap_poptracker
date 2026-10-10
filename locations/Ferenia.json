@@ -1,0 +1,1948 @@
+[
+  {
+    "name": "Ferenia",
+    "children": [
+      {
+        "name": "Ferenia: Total Recharge Station",
+        "access_rules": [
+          "^$CanReachLocation|31277"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31277"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1165,
+            "y": 731
+          },
+          {
+            "map": "Combined",
+            "x": 1680,
+            "y": 1150,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Fan Room",
+        "access_rules": [
+          "^$CanReachLocation|31282"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31282"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 684,
+            "y": 703
+          },
+          {
+            "map": "Combined",
+            "x": 1439,
+            "y": 1137,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Speedboost Slopes Maze",
+        "access_rules": [
+          "^$CanReachLocation|31285"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31285"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 450,
+            "y": 543
+          },
+          {
+            "map": "Combined",
+            "x": 1322,
+            "y": 1057,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Separate Tunnels Room - Missile Tank - Left",
+        "access_rules": [
+          "^$CanReachLocation|31274"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31274"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 558,
+            "y": 467
+          },
+          {
+            "map": "Combined",
+            "x": 1376,
+            "y": 1019,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Separate Tunnels Room - Missile Tank - Right",
+        "access_rules": [
+          "^$CanReachLocation|31286"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31286"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 618,
+            "y": 481
+          },
+          {
+            "map": "Combined",
+            "x": 1406,
+            "y": 1025,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Space Jump Room - Space Jump",
+        "access_rules": [
+          "^$CanReachLocation|31273"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31273"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 625,
+            "y": 333
+          },
+          {
+            "map": "Combined",
+            "x": 1410,
+            "y": 951,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Space Jump Room - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31283"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31283"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 666,
+            "y": 360
+          },
+          {
+            "map": "Combined",
+            "x": 1430,
+            "y": 965,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Space Jump Room - Missile+ Tank",
+        "access_rules": [
+          "^$CanReachLocation|31284"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31284"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 565,
+            "y": 234
+          },
+          {
+            "map": "Combined",
+            "x": 1379,
+            "y": 902,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Pitfall Puzzle Room",
+        "access_rules": [
+          "^$CanReachLocation|31275"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31275"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 450,
+            "y": 360
+          },
+          {
+            "map": "Combined",
+            "x": 1322,
+            "y": 965,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Twin Robot Arena",
+        "access_rules": [
+          "^$CanReachLocation|31280"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31280"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 916,
+            "y": 347
+          },
+          {
+            "map": "Combined",
+            "x": 1555,
+            "y": 958,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Energy Recharge Station Secret",
+        "access_rules": [
+          "^$CanReachLocation|31278"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31278"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1192,
+            "y": 382
+          },
+          {
+            "map": "Combined",
+            "x": 1693,
+            "y": 976,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Path to Escue",
+        "access_rules": [
+          "^$CanReachLocation|31287"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31287"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1609,
+            "y": 583
+          },
+          {
+            "map": "Combined",
+            "x": 1901,
+            "y": 1077,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Escue Eyedoor Room",
+        "access_rules": [
+          "^$CanReachLocation|31276"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31276"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1724,
+            "y": 534
+          },
+          {
+            "map": "Combined",
+            "x": 1959,
+            "y": 1052,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Escue",
+        "access_rules": [
+          "^$CanReachLocation|31296"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31296"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1615,
+            "y": 641
+          },
+          {
+            "map": "Combined",
+            "x": 1905,
+            "y": 1106,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/power_bomb_tank.png"
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Cold Room (Storm Missile Gate)",
+        "access_rules": [
+          "^$CanReachLocation|31279"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31279"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1278,
+            "y": 333
+          },
+          {
+            "map": "Combined",
+            "x": 1736,
+            "y": 952,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: E.M.M.I.-06WB",
+        "access_rules": [
+          "^$CanReachLocation|31297"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31297"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1480,
+            "y": 223
+          },
+          {
+            "map": "Combined",
+            "x": 1837,
+            "y": 897,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ferenia: Purple EMMI Introduction",
+        "access_rules": [
+          "^$CanReachLocation|31281"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31281"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 918,
+            "y": 664
+          },
+          {
+            "map": "Combined",
+            "x": 1556,
+            "y": 1117,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Door 177: East Transport to Dairon <> Total Recharge Station",
+        "access_rules": [
+          "^$DoorAccess|177"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|177"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1137,
+            "y": 825,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_177",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 178: EMMI Zone Exit West <> EMMI Zone Exit Middle",
+        "access_rules": [
+          "^$DoorAccess|178"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|178"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1048,
+            "y": 659,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_178",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 179: EMMI Zone Exit West <> EMMI Zone Exit Middle",
+        "access_rules": [
+          "^$DoorAccess|179"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|179"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1048,
+            "y": 632,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_179",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 180: Fan Room Access <> Quiet Robe Room",
+        "access_rules": [
+          "^$DoorAccess|180"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|180"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 783,
+            "y": 811,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_180",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 181: Fan Room <> Cold Room (Small)",
+        "access_rules": [
+          "^$DoorAccess|181"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|181"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 651,
+            "y": 673,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_181",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 182: Fan Room <> Transport to Dairon",
+        "access_rules": [
+          "^$DoorAccess|182"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|182"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 651,
+            "y": 722,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_182",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 183: Teleport to Burenia (Cyan) <> Cold Room (Small)",
+        "access_rules": [
+          "^$DoorAccess|183"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|183"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 651,
+            "y": 588,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_183",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 184: Teleport to Burenia (Cyan) <> Twin Robot Arena",
+        "access_rules": [
+          "^$DoorAccess|184"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|184"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 783,
+            "y": 498,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_184",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 185: Speedboost Slopes Maze <> Cold Room (Small)",
+        "access_rules": [
+          "^$DoorAccess|185"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|185"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 519,
+            "y": 579,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_185",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 186: Space Jump Room <> Navigation Station",
+        "access_rules": [
+          "^$DoorAccess|186"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|186"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 695,
+            "y": 454,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_186",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 187: Space Jump Room <> Space Jump Room Access",
+        "access_rules": [
+          "^$DoorAccess|187"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|187"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 695,
+            "y": 396,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_187",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 188: Space Jump Room <> Space Jump Room Access",
+        "access_rules": [
+          "^$DoorAccess|188"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|188"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 695,
+            "y": 333,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_188",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 189: Space Jump Room <> Space Jump Room Access",
+        "access_rules": [
+          "^$DoorAccess|189"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|189"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 695,
+            "y": 302,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_189",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 190: Space Jump Room Access <> Twin Robot Arena",
+        "access_rules": [
+          "^$DoorAccess|190"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|190"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 783,
+            "y": 351,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_190",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 191: Navigation Station <> Twin Robot Arena",
+        "access_rules": [
+          "^$DoorAccess|191"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|191"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 783,
+            "y": 454,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_191",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 192: Twin Robot Arena <> Energy Recharge Station (Gate)",
+        "access_rules": [
+          "^$DoorAccess|192"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|192"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1048,
+            "y": 498,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_192",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 193: Twin Robot Arena <> Cold Room (Energy Recharge Station)",
+        "access_rules": [
+          "^$DoorAccess|193"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|193"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1048,
+            "y": 351,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_193",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 194: Cold Room (Energy Recharge Station) <> Transport to Hanubia",
+        "access_rules": [
+          "^$DoorAccess|194"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|194"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1181,
+            "y": 239,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_194",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 195: Cold Room (Energy Recharge Station) <> Cold Room (Storm Missile Gate)",
+        "access_rules": [
+          "^$DoorAccess|195"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|195"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1181,
+            "y": 266,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_195",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 196: Cold Room (Energy Recharge Station) <> Cold Room (Storm Missile Gate)",
+        "access_rules": [
+          "^$DoorAccess|196"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|196"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1181,
+            "y": 320,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_196",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 197: Cold Room (Energy Recharge Station) <> Cold Room (Storm Missile Gate)",
+        "access_rules": [
+          "^$DoorAccess|197"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|197"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1181,
+            "y": 288,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_197",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 198: EMMI Zone Exit Middle <> EMMI Zone Exit East Access",
+        "access_rules": [
+          "^$DoorAccess|198"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|198"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1225,
+            "y": 427,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_198",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 199: Map Station Access <> Storm Missile Tutorial",
+        "access_rules": [
+          "^$DoorAccess|199"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|199"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1313,
+            "y": 565,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_199",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 200: Storm Missile Tutorial <> Path to Escue",
+        "access_rules": [
+          "^$DoorAccess|200"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|200"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1534,
+            "y": 570,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_200",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 201: Storm Missile Tutorial <> Save Station Southeast",
+        "access_rules": [
+          "^$DoorAccess|201"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|201"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1446,
+            "y": 539,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_201",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 202: Path to Escue <> Save Station Southeast",
+        "access_rules": [
+          "^$DoorAccess|202"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|202"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1534,
+            "y": 539,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_202",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 203: Transport to Hanubia <> Save Station North",
+        "access_rules": [
+          "^$DoorAccess|203"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|203"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1269,
+            "y": 239,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_203",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 204: Wave Beam Tutorial <> Purple EMMI Arena",
+        "access_rules": [
+          "^$DoorAccess|204"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|204"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1446,
+            "y": 230,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_204",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 205: Wave Beam Tutorial <> EMMI Zone Exit East Access",
+        "access_rules": [
+          "^$DoorAccess|205"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|205"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1357,
+            "y": 382,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_205",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 206: EMMI Zone Exit East <> EMMI Zone Exit East Access",
+        "access_rules": [
+          "^$DoorAccess|206"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|206"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1357,
+            "y": 494,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_206",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 207: EMMI Zone Exit East <> EMMI Zone Exit East Access",
+        "access_rules": [
+          "^$DoorAccess|207"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|207"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1357,
+            "y": 427,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_207",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: East Transport to Dairon",
+        "access_rules": [
+          "^$TransportAccess|18"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1090,
+            "y": 825,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1642,
+            "y": 1197,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_18",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Dairon - East Transport to Ferenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Dairon",
+        "access_rules": [
+          "^$TransportAccess|19"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 585,
+            "y": 722,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1389,
+            "y": 1146,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_19",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Dairon - West Transport to Ferenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ghavoran",
+        "access_rules": [
+          "^$TransportAccess|20"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 185,
+            "y": 324,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1190,
+            "y": 947,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_20",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ghavoran - Transport to Ferenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Hanubia",
+        "access_rules": [
+          "^$TransportAccess|21"
+        ],
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1225,
+            "y": 195,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1709,
+            "y": 882,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_21",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Hanubia - Transport to Ferenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|26"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 739,
+            "y": 454,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1467,
+            "y": 1012,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Map Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|27"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1357,
+            "y": 650,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1776,
+            "y": 1110,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station North (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|28"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1313,
+            "y": 239,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1754,
+            "y": 905,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station Southeast (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|29"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ferenia",
+            "x": 1490,
+            "y": 539,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1842,
+            "y": 1054,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "name": "Hanubia",
+    "children": [
+      {
+        "name": "Hanubia: Ferenia Shortcut",
+        "access_rules": [
+          "^$CanReachLocation|31290"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31290"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 947,
+            "y": 598
+          },
+          {
+            "map": "Combined",
+            "x": 1646,
+            "y": 688,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Hanubia: Total Recharge Station North",
+        "access_rules": [
+          "^$CanReachLocation|31288"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31288"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1057,
+            "y": 409
+          },
+          {
+            "map": "Combined",
+            "x": 1701,
+            "y": 594,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Hanubia: Speedboost Puzzle Room",
+        "access_rules": [
+          "^$CanReachLocation|31289"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31289"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1098,
+            "y": 511
+          },
+          {
+            "map": "Combined",
+            "x": 1721,
+            "y": 644,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Hanubia: E.M.M.I.-07PB",
+        "access_rules": [
+          "^$CanReachLocation|31291"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31291"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1364,
+            "y": 604
+          },
+          {
+            "map": "Combined",
+            "x": 1853,
+            "y": 690,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/missile_tank.png"
+          }
+        ]
+      },
+      {
+        "name": "Door 241: Transport to Ferenia <> Ferenia Shortcut",
+        "access_rules": [
+          "^$DoorAccess|241"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|241"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1026,
+            "y": 656,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_241",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 242: Transport to Ghavoran <> Entrance Tall Room",
+        "access_rules": [
+          "^$DoorAccess|242"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|242"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 623,
+            "y": 542,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_242",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 243: Navigation Station <> Entrance Tall Room",
+        "access_rules": [
+          "^$DoorAccess|243"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|243"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 894,
+            "y": 542,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_243",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 244: Navigation Station <> Speedboost Puzzle Room",
+        "access_rules": [
+          "^$DoorAccess|244"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|244"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 985,
+            "y": 542,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_244",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 245: Navigation Station <> Speedboost Puzzle Room",
+        "access_rules": [
+          "^$DoorAccess|245"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|245"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 985,
+            "y": 520,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_245",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 246: Entrance Tall Room <> Total Recharge Station North",
+        "access_rules": [
+          "^$DoorAccess|246"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|246"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 894,
+            "y": 409,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_246",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 247: Gold Chozo Warrior Arena <> Total Recharge Station North",
+        "access_rules": [
+          "^$DoorAccess|247"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|247"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1094,
+            "y": 357,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_247",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 248: Gold Chozo Warrior Arena <> Transport to Itorash",
+        "access_rules": [
+          "^$DoorAccess|248"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|248"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1198,
+            "y": 357,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_248",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 249: Speedboost Puzzle Room <> Tank Room",
+        "access_rules": [
+          "^$DoorAccess|249"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|249"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1116,
+            "y": 573,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_249",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 250: Speedboost Puzzle Room <> Tank Room",
+        "access_rules": [
+          "^$DoorAccess|250"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|250"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1116,
+            "y": 502,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_250",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ferenia",
+        "access_rules": [
+          "^$TransportAccess|27"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1071,
+            "y": 656,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1708,
+            "y": 716,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_27",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ferenia - Transport to Hanubia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ghavoran",
+        "access_rules": [
+          "^$TransportAccess|28"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 417,
+            "y": 542,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1382,
+            "y": 659,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_28",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ghavoran - Transport to Hanubia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Itorash",
+        "access_rules": [
+          "^$TransportAccess|29"
+        ],
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 1245,
+            "y": 357,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1795,
+            "y": 567,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_29",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Itorash - Transport to Hanubia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|34"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Hanubia",
+            "x": 940,
+            "y": 542,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1643,
+            "y": 659,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

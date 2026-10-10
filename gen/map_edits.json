@@ -1,0 +1,12 @@
+{
+  "_comment": "The pack's changes to Randovania's region maps, re-applied at build time by gen/external_assets.py (see its docstring for the operations).",
+  "Artaria": [
+    {"_why": "move the region title out from over Cataris on the World map",
+     "op": "move_color", "box": [1627, 40, 1933, 89], "by": [121, 181],
+     "color": [255, 255, 255], "background": [12, 21, 28]}
+  ],
+  "Burenia": [
+    {"_why": "remove the outline around the image",
+     "op": "border", "width": 1, "color": [12, 21, 28]}
+  ]
+}

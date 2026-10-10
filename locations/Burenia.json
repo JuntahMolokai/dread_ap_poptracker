@@ -1,0 +1,1957 @@
+[
+  {
+    "name": "Burenia",
+    "children": [
+      {
+        "name": "Burenia: Upper Burenia Hub",
+        "access_rules": [
+          "^$CanReachLocation|31246"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31246"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 387,
+            "y": 314
+          },
+          {
+            "map": "Combined",
+            "x": 430,
+            "y": 1492,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Burenia Hub to Dairon - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31235"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31235"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 499,
+            "y": 672
+          },
+          {
+            "map": "Combined",
+            "x": 487,
+            "y": 1675,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Burenia Hub to Dairon - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31244"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31244"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 556,
+            "y": 454
+          },
+          {
+            "map": "Combined",
+            "x": 517,
+            "y": 1564,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Underneath Drogyga",
+        "access_rules": [
+          "^$CanReachLocation|31234"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31234"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 453,
+            "y": 256
+          },
+          {
+            "map": "Combined",
+            "x": 464,
+            "y": 1463,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Teleport to Ferenia",
+        "access_rules": [
+          "^$CanReachLocation|31245"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31245"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 120,
+            "y": 270
+          },
+          {
+            "map": "Combined",
+            "x": 294,
+            "y": 1470,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Main Hub Tower Top - Energy Tank",
+        "access_rules": [
+          "^$CanReachLocation|31236"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31236"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 350,
+            "y": 607
+          },
+          {
+            "map": "Combined",
+            "x": 411,
+            "y": 1642,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Main Hub Tower Top - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31238"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31238"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 352,
+            "y": 488
+          },
+          {
+            "map": "Combined",
+            "x": 413,
+            "y": 1581,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Main Hub Tower Middle - Missile+ Tank",
+        "access_rules": [
+          "^$CanReachLocation|31243"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31243"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 240,
+            "y": 869
+          },
+          {
+            "map": "Combined",
+            "x": 356,
+            "y": 1775,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Main Hub Tower Middle - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31248"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31248"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 286,
+            "y": 778
+          },
+          {
+            "map": "Combined",
+            "x": 379,
+            "y": 1729,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Energy Recharge South",
+        "access_rules": [
+          "^$CanReachLocation|31231"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31231"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 191,
+            "y": 870
+          },
+          {
+            "map": "Combined",
+            "x": 330,
+            "y": 1776,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Flash Shift Room",
+        "access_rules": [
+          "^$CanReachLocation|31232"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31232"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 431,
+            "y": 679
+          },
+          {
+            "map": "Combined",
+            "x": 453,
+            "y": 1678,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Transport to Artaria",
+        "access_rules": [
+          "^$CanReachLocation|31237"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31237"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 933,
+            "y": 952
+          },
+          {
+            "map": "Combined",
+            "x": 709,
+            "y": 1818,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Early Gravity Speedboost Room 1 - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31240"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31240"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 578,
+            "y": 857
+          },
+          {
+            "map": "Combined",
+            "x": 528,
+            "y": 1769,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Early Gravity Speedboost Room 1 - Missile+ Tank",
+        "access_rules": [
+          "^$CanReachLocation|31241"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31241"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 569,
+            "y": 1005
+          },
+          {
+            "map": "Combined",
+            "x": 523,
+            "y": 1845,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Gravity Suit Tower - Missile+ Tank",
+        "access_rules": [
+          "^$CanReachLocation|31242"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31242"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 703,
+            "y": 961
+          },
+          {
+            "map": "Combined",
+            "x": 591,
+            "y": 1822,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Gravity Suit Tower - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31247"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31247"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 527,
+            "y": 756
+          },
+          {
+            "map": "Combined",
+            "x": 502,
+            "y": 1718,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Gravity Suit Room - Gravity Suit",
+        "access_rules": [
+          "^$CanReachLocation|31233"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31233"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 558,
+            "y": 1093
+          },
+          {
+            "map": "Combined",
+            "x": 517,
+            "y": 1889,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Gravity Suit Room - Power Bomb Tank",
+        "access_rules": [
+          "^$CanReachLocation|31239"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31239"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 584,
+            "y": 1168
+          },
+          {
+            "map": "Combined",
+            "x": 531,
+            "y": 1928,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Storm Missile Gate Room",
+        "access_rules": [
+          "^$CanReachLocation|31249"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31249"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 394,
+            "y": 1054
+          },
+          {
+            "map": "Combined",
+            "x": 434,
+            "y": 1870,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Burenia: Drogyga",
+        "access_rules": [
+          "^$CanReachLocation|31294"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31294"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 396,
+            "y": 174
+          },
+          {
+            "map": "Combined",
+            "x": 435,
+            "y": 1421,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/missile_tank.png"
+          }
+        ]
+      },
+      {
+        "name": "Door 82: Map Station <> Upper Burenia Hub",
+        "access_rules": [
+          "^$DoorAccess|82"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|82"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 286,
+            "y": 336,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_82",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 83: Map Station <> Teleport to Ferenia",
+        "access_rules": [
+          "^$DoorAccess|83"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|83"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 336,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_83",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 84: Upper Burenia Hub <> Burenia Hub to Dairon",
+        "access_rules": [
+          "^$DoorAccess|84"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|84"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 462,
+            "y": 463,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_84",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 85: Upper Burenia Hub <> Navigation Station North",
+        "access_rules": [
+          "^$DoorAccess|85"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|85"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 286,
+            "y": 415,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_85",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 86: Burenia Hub to Dairon <> Upper Transport to Dairon",
+        "access_rules": [
+          "^$DoorAccess|86"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|86"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 659,
+            "y": 380,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_86",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 87: Burenia Hub to Dairon <> Underwater Horseshoe",
+        "access_rules": [
+          "^$DoorAccess|87"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|87"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 462,
+            "y": 594,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_87",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 88: Burenia Hub to Dairon <> Lower Transport to Dairon",
+        "access_rules": [
+          "^$DoorAccess|88"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|88"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 637,
+            "y": 612,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_88",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 89: Drogyga Eyedoor <> Teleport to Ferenia",
+        "access_rules": [
+          "^$DoorAccess|89"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|89"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 288,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_89",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 90: Transport to Ghavoran <> Underneath Drogyga",
+        "access_rules": [
+          "^$DoorAccess|90"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|90"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 462,
+            "y": 292,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_90",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 91: Teleport to Ferenia <> Navigation Station North",
+        "access_rules": [
+          "^$DoorAccess|91"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|91"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 415,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_91",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 92: Main Hub Tower Top <> Flash Shift Room",
+        "access_rules": [
+          "^$DoorAccess|92"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|92"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 374,
+            "y": 691,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_92",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 93: Main Hub Tower Middle <> Energy Recharge South",
+        "access_rules": [
+          "^$DoorAccess|93"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|93"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 831,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_93",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 94: Main Hub Tower Middle <> Teleport to Ghavoran",
+        "access_rules": [
+          "^$DoorAccess|94"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|94"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 374,
+            "y": 831,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_94",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 95: Main Hub Tower Middle <> Teleport to Ghavoran",
+        "access_rules": [
+          "^$DoorAccess|95"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|95"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 374,
+            "y": 752,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_95",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 96: Main Hub Tower Bottom <> Energy Recharge South",
+        "access_rules": [
+          "^$DoorAccess|96"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|96"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 962,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_96",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 97: Main Hub Tower Bottom <> Save Station South Access",
+        "access_rules": [
+          "^$DoorAccess|97"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|97"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 984,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_97",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 98: Main Hub Tower Bottom <> Save Station South Access",
+        "access_rules": [
+          "^$DoorAccess|98"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|98"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 199,
+            "y": 1032,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_98",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 99: Main Hub Tower Bottom <> Storm Missile Gate Room",
+        "access_rules": [
+          "^$DoorAccess|99"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|99"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 374,
+            "y": 1076,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_99",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 100: Teleport to Ghavoran <> Early Gravity Speedboost Room 1",
+        "access_rules": [
+          "^$DoorAccess|100"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|100"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 506,
+            "y": 839,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_100",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 101: Teleport to Ghavoran <> Early Gravity Speedboost Room 1",
+        "access_rules": [
+          "^$DoorAccess|101"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|101"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 506,
+            "y": 857,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_101",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 102: Teleport to Ghavoran <> Gravity Suit Tower",
+        "access_rules": [
+          "^$DoorAccess|102"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|102"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 506,
+            "y": 752,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_102",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 103: Navigation Station South <> Gravity Suit Tower",
+        "access_rules": [
+          "^$DoorAccess|103"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|103"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 812,
+            "y": 980,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_103",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 104: Navigation Station South <> Transport to Artaria",
+        "access_rules": [
+          "^$DoorAccess|104"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|104"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 900,
+            "y": 980,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_104",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 105: Gravity Suit Tower <> Gravity Suit Room",
+        "access_rules": [
+          "^$DoorAccess|105"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|105"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 593,
+            "y": 1120,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_105",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 106: Gravity Suit Tower <> Ammo Recharge South",
+        "access_rules": [
+          "^$DoorAccess|106"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|106"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 812,
+            "y": 1102,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Sensor Lock)",
+            "item_count": 0,
+            "hosted_item": "door_106",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Sensor Lock doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_sensor_lock_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 107: Gravity Suit Tower <> Gravity Suit Room",
+        "access_rules": [
+          "^$DoorAccess|107"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|107"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 593,
+            "y": 1137,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_107",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 108: Gravity Suit Tower <> Ammo Recharge South",
+        "access_rules": [
+          "^$DoorAccess|108"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|108"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 812,
+            "y": 1041,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Sensor Lock)",
+            "item_count": 0,
+            "hosted_item": "door_108",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Sensor Lock doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_sensor_lock_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Upper Transport to Dairon",
+        "access_rules": [
+          "^$TransportAccess|4"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 810,
+            "y": 380,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 646,
+            "y": 1526,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_4",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Dairon - Upper Transport to Burenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Lower Transport to Dairon",
+        "access_rules": [
+          "^$TransportAccess|5"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 801,
+            "y": 612,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 642,
+            "y": 1644,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_5",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Dairon - Lower Transport to Burenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ghavoran",
+        "access_rules": [
+          "^$TransportAccess|6"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 523,
+            "y": 99,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 500,
+            "y": 1383,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_6",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ghavoran - Transport to Burenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Artaria",
+        "access_rules": [
+          "^$TransportAccess|7"
+        ],
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 1001,
+            "y": 984,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 743,
+            "y": 1834,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_7",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Artaria - Transport to Burenia",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Map Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|9"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 242,
+            "y": 336,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 357,
+            "y": 1503,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station North (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|10"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 242,
+            "y": 415,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 357,
+            "y": 1543,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station Middle (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|11"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 155,
+            "y": 660,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 312,
+            "y": 1669,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station South (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|12"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 856,
+            "y": 980,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 670,
+            "y": 1832,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station South (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|13"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 67,
+            "y": 984,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 267,
+            "y": 1834,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station North (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|14"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Burenia",
+            "x": 620,
+            "y": 121,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 549,
+            "y": 1394,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

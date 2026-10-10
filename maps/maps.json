@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Artaria",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Artaria.png"
+  },
+  {
+    "name": "Cataris",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Cataris.png"
+  },
+  {
+    "name": "Dairon",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Dairon.png"
+  },
+  {
+    "name": "Burenia",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Burenia.png"
+  },
+  {
+    "name": "Ghavoran",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Ghavoran.png"
+  },
+  {
+    "name": "Elun",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Elun.png"
+  },
+  {
+    "name": "Ferenia",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Ferenia.png"
+  },
+  {
+    "name": "Hanubia",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Hanubia.png"
+  },
+  {
+    "name": "Itorash",
+    "location_size": 26,
+    "location_border_thickness": 3,
+    "img": "images/maps/Itorash.png"
+  },
+  {
+    "name": "Combined",
+    "location_size": 32,
+    "location_border_thickness": 4,
+    "img": "images/maps/Combined.png"
+  }
+]

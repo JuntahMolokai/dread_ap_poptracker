@@ -1,0 +1,4420 @@
+[
+  {
+    "name": "Artaria",
+    "children": [
+      {
+        "name": "Artaria: Charge Tutorial",
+        "access_rules": [
+          "^$CanReachLocation|31157"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31157"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1590,
+            "y": 930
+          },
+          {
+            "map": "Combined",
+            "x": 1797,
+            "y": 2098,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Melee Tutorial Room - Missile Tank 1",
+        "access_rules": [
+          "^$CanReachLocation|31166"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31166"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1741,
+            "y": 662
+          },
+          {
+            "map": "Combined",
+            "x": 1874,
+            "y": 1961,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Melee Tutorial Room - Missile Tank 2",
+        "access_rules": [
+          "^$CanReachLocation|31185"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31185"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1865,
+            "y": 605
+          },
+          {
+            "map": "Combined",
+            "x": 1937,
+            "y": 1931,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: EMMI Zone First Entrance",
+        "access_rules": [
+          "^$CanReachLocation|31158"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31158"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1537,
+            "y": 534
+          },
+          {
+            "map": "Combined",
+            "x": 1770,
+            "y": 1895,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: EMMI Zone Exit North",
+        "access_rules": [
+          "^$CanReachLocation|31171"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31171"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1311,
+            "y": 366
+          },
+          {
+            "map": "Combined",
+            "x": 1655,
+            "y": 1810,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: EMMI Zone Hub",
+        "access_rules": [
+          "^$CanReachLocation|31173"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31173"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1090,
+            "y": 433
+          },
+          {
+            "map": "Combined",
+            "x": 1542,
+            "y": 1844,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Teleport to Cataris - Missile Tank, Underwater",
+        "access_rules": [
+          "^$CanReachLocation|31162"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31162"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 781,
+            "y": 495
+          },
+          {
+            "map": "Combined",
+            "x": 1384,
+            "y": 1875,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Teleport to Cataris - Missile Tank, Supers-locked",
+        "access_rules": [
+          "^$CanReachLocation|31174"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31174"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 724,
+            "y": 319
+          },
+          {
+            "map": "Combined",
+            "x": 1355,
+            "y": 1786,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Charge Beam Access",
+        "access_rules": [
+          "^$CanReachLocation|31183"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31183"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 934,
+            "y": 904
+          },
+          {
+            "map": "Combined",
+            "x": 1462,
+            "y": 2084,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Charge Beam Room",
+        "access_rules": [
+          "^$CanReachLocation|31154"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31154"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 847,
+            "y": 934
+          },
+          {
+            "map": "Combined",
+            "x": 1418,
+            "y": 2100,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: EMMI Zone Spinner",
+        "access_rules": [
+          "^$CanReachLocation|31159"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31159"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1287,
+            "y": 617
+          },
+          {
+            "map": "Combined",
+            "x": 1642,
+            "y": 1938,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Proto EMMI Introduction",
+        "access_rules": [
+          "^$CanReachLocation|31167"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31167"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1969,
+            "y": 583
+          },
+          {
+            "map": "Combined",
+            "x": 1990,
+            "y": 1920,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Corpius",
+        "access_rules": [
+          "^$CanReachLocation|31292"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31292"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2158,
+            "y": 535
+          },
+          {
+            "map": "Combined",
+            "x": 2087,
+            "y": 1896,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: David Jaffe Room",
+        "access_rules": [
+          "^$CanReachLocation|31163"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31163"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1859,
+            "y": 385
+          },
+          {
+            "map": "Combined",
+            "x": 1934,
+            "y": 1819,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: East Lava Missile Room",
+        "access_rules": [
+          "^$CanReachLocation|31165"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31165"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2123,
+            "y": 388
+          },
+          {
+            "map": "Combined",
+            "x": 2069,
+            "y": 1821,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Varia Suit Tutorial North",
+        "access_rules": [
+          "^$CanReachLocation|31184"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31184"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 901,
+            "y": 161
+          },
+          {
+            "map": "Combined",
+            "x": 1446,
+            "y": 1705,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Shutter Platform Puzzle",
+        "access_rules": [
+          "^$CanReachLocation|31168"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31168"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 511,
+            "y": 90
+          },
+          {
+            "map": "Combined",
+            "x": 1247,
+            "y": 1669,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Varia Suit Room",
+        "access_rules": [
+          "^$CanReachLocation|31177"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31177"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 772,
+            "y": 63
+          },
+          {
+            "map": "Combined",
+            "x": 1380,
+            "y": 1655,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Grapple Beam Room",
+        "access_rules": [
+          "^$CanReachLocation|31179"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31179"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1648,
+            "y": 270
+          },
+          {
+            "map": "Combined",
+            "x": 1827,
+            "y": 1761,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: E.M.M.I.-02SM",
+        "access_rules": [
+          "^$CanReachLocation|31293"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31293"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1574,
+            "y": 791
+          },
+          {
+            "map": "Combined",
+            "x": 1789,
+            "y": 2026,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/missile_plus_tank.png"
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Invisible Corpius Room",
+        "access_rules": [
+          "^$CanReachLocation|31160"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31160"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1916,
+            "y": 419
+          },
+          {
+            "map": "Combined",
+            "x": 1963,
+            "y": 1837,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: EMMI Zone Exit Northwest",
+        "access_rules": [
+          "^$CanReachLocation|31175"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31175"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 982,
+            "y": 455
+          },
+          {
+            "map": "Combined",
+            "x": 1487,
+            "y": 1855,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Energy Recharge Station South",
+        "access_rules": [
+          "^$CanReachLocation|31176"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31176"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1013,
+            "y": 815
+          },
+          {
+            "map": "Combined",
+            "x": 1503,
+            "y": 2039,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Waterfall - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31161"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31161"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 577,
+            "y": 529
+          },
+          {
+            "map": "Combined",
+            "x": 1280,
+            "y": 1893,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Waterfall - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31170"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31170"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 539,
+            "y": 455
+          },
+          {
+            "map": "Combined",
+            "x": 1261,
+            "y": 1855,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Thermal Device",
+        "access_rules": [
+          "^$CanReachLocation|31164"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31164"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2080,
+            "y": 450
+          },
+          {
+            "map": "Combined",
+            "x": 2047,
+            "y": 1853,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Arbitrary Enky Room",
+        "access_rules": [
+          "^$CanReachLocation|31155"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31155"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1649,
+            "y": 354
+          },
+          {
+            "map": "Combined",
+            "x": 1827,
+            "y": 1804,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Hot Cataris Shortcut",
+        "access_rules": [
+          "^$CanReachLocation|31156"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31156"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2491,
+            "y": 349
+          },
+          {
+            "map": "Combined",
+            "x": 2256,
+            "y": 1801,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Transport to Burenia",
+        "access_rules": [
+          "^$CanReachLocation|31186"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31186"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 18,
+            "y": 600
+          },
+          {
+            "map": "Combined",
+            "x": 995,
+            "y": 1929,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Screw Attack Room - Missile Tank, Top",
+        "access_rules": [
+          "^$CanReachLocation|31178"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31178"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 296,
+            "y": 600
+          },
+          {
+            "map": "Combined",
+            "x": 1137,
+            "y": 1929,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Screw Attack Room - Missile Tank, Underwater",
+        "access_rules": [
+          "^$CanReachLocation|31180"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31180"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 281,
+            "y": 715
+          },
+          {
+            "map": "Combined",
+            "x": 1129,
+            "y": 1988,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Screw Attack Room - Screw Attack",
+        "access_rules": [
+          "^$CanReachLocation|31181"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31181"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 311,
+            "y": 653
+          },
+          {
+            "map": "Combined",
+            "x": 1145,
+            "y": 1956,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Freezer",
+        "access_rules": [
+          "^$CanReachLocation|31182"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31182"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 434,
+            "y": 666
+          },
+          {
+            "map": "Combined",
+            "x": 1207,
+            "y": 1962,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Speed Hallway - Missile+ Tank",
+        "access_rules": [
+          "^$CanReachLocation|31169"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31169"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 796,
+            "y": 824
+          },
+          {
+            "map": "Combined",
+            "x": 1392,
+            "y": 2043,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Artaria: Speed Hallway - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31172"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31172"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 647,
+            "y": 834
+          },
+          {
+            "map": "Combined",
+            "x": 1316,
+            "y": 2048,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Door 1: First Tutorial <> Charge Tutorial",
+        "access_rules": [
+          "^$DoorAccess|1"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|1"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 939,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_1",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 2: First Tutorial <> Navigation Station South",
+        "access_rules": [
+          "^$DoorAccess|2"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|2"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1530,
+            "y": 847,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_2",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 3: Intro Room <> Charge Beam Access",
+        "access_rules": [
+          "^$DoorAccess|3"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|3"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1004,
+            "y": 930,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_3",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 4: Charge Tutorial <> Melee Tutorial West",
+        "access_rules": [
+          "^$DoorAccess|4"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|4"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1618,
+            "y": 886,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_4",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 5: Melee Tutorial West <> Navigation Station South",
+        "access_rules": [
+          "^$DoorAccess|5"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|5"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1618,
+            "y": 847,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_5",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 6: Melee Tutorial Room <> Proto EMMI Introduction",
+        "access_rules": [
+          "^$DoorAccess|6"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|6"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1881,
+            "y": 671,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_6",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 7: Melee Tutorial Room <> Early Cloak Room",
+        "access_rules": [
+          "^$DoorAccess|7"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|7"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1706,
+            "y": 636,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_7",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 8: Melee Tutorial Room <> Save Station South",
+        "access_rules": [
+          "^$DoorAccess|8"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|8"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1793,
+            "y": 605,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_8",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 9: Melee Tutorial Room <> Proto EMMI Introduction",
+        "access_rules": [
+          "^$DoorAccess|9"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|9"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1881,
+            "y": 605,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_9",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 10: Early Cloak Room <> Save Station South",
+        "access_rules": [
+          "^$DoorAccess|10"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|10"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1706,
+            "y": 605,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_10",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 11: Early Cloak Room <> Path to Corpius",
+        "access_rules": [
+          "^$DoorAccess|11"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|11"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1706,
+            "y": 543,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_11",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 12: EMMI Zone First Entrance <> EMMI Zone Entrance Hallway",
+        "access_rules": [
+          "^$DoorAccess|12"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|12"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1574,
+            "y": 675,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_12",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 13: EMMI Zone First Entrance <> White EMMI Arena",
+        "access_rules": [
+          "^$DoorAccess|13"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|13"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 640,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_13",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 14: EMMI Zone First Entrance <> White EMMI Introduction",
+        "access_rules": [
+          "^$DoorAccess|14"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|14"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 592,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_14",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 15: White EMMI Introduction <> Teleport to Dairon",
+        "access_rules": [
+          "^$DoorAccess|15"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|15"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 504,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_15",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 16: Teleport to Dairon <> EMMI Zone Exit North",
+        "access_rules": [
+          "^$DoorAccess|16"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|16"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 425,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_16",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 17: Teleport to Dairon <> EMMI First Chase End",
+        "access_rules": [
+          "^$DoorAccess|17"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|17"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1618,
+            "y": 460,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_17",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 18: Teleport to Dairon <> EMMI First Chase End",
+        "access_rules": [
+          "^$DoorAccess|18"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|18"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1618,
+            "y": 477,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_18",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 19: Teleport to Dairon <> EMMI First Chase End",
+        "access_rules": [
+          "^$DoorAccess|19"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|19"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1618,
+            "y": 504,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_19",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 20: Teleport to Dairon <> EMMI Zone Exit North",
+        "access_rules": [
+          "^$DoorAccess|20"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|20"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 407,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wide)",
+            "item_count": 0,
+            "hosted_item": "door_20",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wide doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wide_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 21: EMMI Zone Exit North <> EMMI Zone Dome",
+        "access_rules": [
+          "^$DoorAccess|21"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|21"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1263,
+            "y": 407,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_21",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 22: EMMI Zone Hub <> EMMI Zone Exit Northwest",
+        "access_rules": [
+          "^$DoorAccess|22"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|22"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1004,
+            "y": 442,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wave)",
+            "item_count": 0,
+            "hosted_item": "door_22",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wave doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wave_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 23: EMMI Zone Hub <> EMMI Zone Exit Southwest",
+        "access_rules": [
+          "^$DoorAccess|23"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|23"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1007,
+            "y": 596,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_23",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 24: EMMI Zone Hub <> EMMI Zone Exit Southwest",
+        "access_rules": [
+          "^$DoorAccess|24"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|24"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1004,
+            "y": 631,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_24",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 25: EMMI Zone Hub <> Wide Beam Block Room",
+        "access_rules": [
+          "^$DoorAccess|25"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|25"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1175,
+            "y": 631,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_25",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 26: EMMI Zone Hub <> Wide Beam Block Room",
+        "access_rules": [
+          "^$DoorAccess|26"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|26"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1172,
+            "y": 596,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_26",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 27: Teleport to Cataris <> Save Station West",
+        "access_rules": [
+          "^$DoorAccess|27"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|27"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 697,
+            "y": 473,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_27",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 28: Teleport to Cataris <> Varia Suit Tutorial South",
+        "access_rules": [
+          "^$DoorAccess|28"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|28"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 873,
+            "y": 337,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_28",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 29: Save Station West <> Waterfall",
+        "access_rules": [
+          "^$DoorAccess|29"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|29"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 610,
+            "y": 473,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_29",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 30: Charge Beam Access <> Charge Beam Room",
+        "access_rules": [
+          "^$DoorAccess|30"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|30"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 916,
+            "y": 922,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_30",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 31: Charge Beam Access <> Cold Introduction",
+        "access_rules": [
+          "^$DoorAccess|31"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|31"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 916,
+            "y": 895,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_31",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 32: Charge Beam Access <> Cold Introduction",
+        "access_rules": [
+          "^$DoorAccess|32"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|32"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 916,
+            "y": 851,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_32",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 33: EMMI Zone Spinner <> White EMMI Arena",
+        "access_rules": [
+          "^$DoorAccess|33"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|33"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1347,
+            "y": 700,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_33",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 34: EMMI Zone Spinner <> White EMMI Arena",
+        "access_rules": [
+          "^$DoorAccess|34"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|34"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1351,
+            "y": 798,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_34",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 35: EMMI Zone Spinner <> White EMMI Arena",
+        "access_rules": [
+          "^$DoorAccess|35"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|35"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1351,
+            "y": 659,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_35",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 36: EMMI Zone Spinner <> White EMMI Arena",
+        "access_rules": [
+          "^$DoorAccess|36"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|36"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1348,
+            "y": 617,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_36",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 37: EMMI Zone Spinner <> Wide Beam Block Room",
+        "access_rules": [
+          "^$DoorAccess|37"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|37"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1263,
+            "y": 596,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_37",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 38: White EMMI Arena <> Central Unit Access",
+        "access_rules": [
+          "^$DoorAccess|38"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|38"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1486,
+            "y": 715,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_38",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 39: White EMMI Arena <> Central Unit Access",
+        "access_rules": [
+          "^$DoorAccess|39"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|39"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1488,
+            "y": 797,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_39",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 40: David Jaffe Room <> Navigation Station North",
+        "access_rules": [
+          "^$DoorAccess|40"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|40"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1793,
+            "y": 385,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_40",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 41: Thermal Door Tutorial <> Invisible Corpius Room",
+        "access_rules": [
+          "^$DoorAccess|41"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|41"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1925,
+            "y": 420,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Sensor Lock)",
+            "item_count": 0,
+            "hosted_item": "door_41",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Sensor Lock doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_sensor_lock_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 42: Thermal Door Tutorial <> Magma Flow Vista",
+        "access_rules": [
+          "^$DoorAccess|42"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|42"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2013,
+            "y": 367,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_42",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 43: Magma Flow Vista <> Hot Room Hub",
+        "access_rules": [
+          "^$DoorAccess|43"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|43"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2320,
+            "y": 367,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_43",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 44: East Lava Missile Room <> Hot Room Hub",
+        "access_rules": [
+          "^$DoorAccess|44"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|44"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2320,
+            "y": 403,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_44",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 45: Hot Room Hub <> Save Station East",
+        "access_rules": [
+          "^$DoorAccess|45"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|45"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2320,
+            "y": 464,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_45",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 46: Hot Room Hub <> Hot Cataris Shortcut",
+        "access_rules": [
+          "^$DoorAccess|46"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|46"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2407,
+            "y": 385,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_46",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 47: Hot Room Hub <> Lower Path to Cataris",
+        "access_rules": [
+          "^$DoorAccess|47"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|47"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2407,
+            "y": 455,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Sensor Lock)",
+            "item_count": 0,
+            "hosted_item": "door_47",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Sensor Lock doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_sensor_lock_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 48: Save Station East <> Path to Thermal Device",
+        "access_rules": [
+          "^$DoorAccess|48"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|48"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2232,
+            "y": 464,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_48",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 49: Chain Reaction Room <> Chain Reaction Access",
+        "access_rules": [
+          "^$DoorAccess|49"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|49"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 697,
+            "y": 310,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_49",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 50: Chain Reaction Room <> Varia Suit Tutorial South",
+        "access_rules": [
+          "^$DoorAccess|50"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|50"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 873,
+            "y": 310,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_50",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 51: Varia Suit Tutorial North <> Varia Suit Room",
+        "access_rules": [
+          "^$DoorAccess|51"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|51"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 873,
+            "y": 112,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_51",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 52: Shutter Platform Puzzle <> Varia Suit Room",
+        "access_rules": [
+          "^$DoorAccess|52"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|52"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 697,
+            "y": 112,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_52",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 53: Spider Beam Tower <> Save Station North",
+        "access_rules": [
+          "^$DoorAccess|53"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|53"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1351,
+            "y": 200,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_53",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 54: Spider Beam Tower <> Transport to Dairon",
+        "access_rules": [
+          "^$DoorAccess|54"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|54"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1351,
+            "y": 134,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_54",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 55: Spider Beam Tower <> Grapple Beam Tutorial",
+        "access_rules": [
+          "^$DoorAccess|55"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|55"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1438,
+            "y": 266,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_55",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 56: Grapple Beam Room <> Grapple Beam Tutorial",
+        "access_rules": [
+          "^$DoorAccess|56"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|56"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1526,
+            "y": 266,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_56",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 57: Grapple Beam Room <> Grapple Beam Tutorial",
+        "access_rules": [
+          "^$DoorAccess|57"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|57"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1526,
+            "y": 301,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_57",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 58: First Tutorial Access <> Energy Recharge Station South",
+        "access_rules": [
+          "^$DoorAccess|58"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|58"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1175,
+            "y": 851,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_58",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 59: EMMI Zone Dome <> EMMI Zone Exit Northwest",
+        "access_rules": [
+          "^$DoorAccess|59"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|59"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1004,
+            "y": 425,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_59",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 60: Invisible Corpius Room <> Navigation Station North",
+        "access_rules": [
+          "^$DoorAccess|60"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|60"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1793,
+            "y": 407,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_60",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 61: Invisible Corpius Room <> Phantom Cloak Tutorial",
+        "access_rules": [
+          "^$DoorAccess|61"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|61"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1925,
+            "y": 504,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Sensor Lock)",
+            "item_count": 0,
+            "hosted_item": "door_61",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Sensor Lock doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_sensor_lock_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 62: Waterfall <> Map Station",
+        "access_rules": [
+          "^$DoorAccess|62"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|62"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 610,
+            "y": 614,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_62",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 63: Waterfall <> Behind Waterfall",
+        "access_rules": [
+          "^$DoorAccess|63"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|63"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 610,
+            "y": 530,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_63",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 64: Waterfall <> Shortcut to Screw Attack",
+        "access_rules": [
+          "^$DoorAccess|64"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|64"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 478,
+            "y": 600,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_64",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 65: Waterfall <> Freezer",
+        "access_rules": [
+          "^$DoorAccess|65"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|65"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 478,
+            "y": 640,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_65",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 66: Map Station <> Water Reservoir",
+        "access_rules": [
+          "^$DoorAccess|66"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|66"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 697,
+            "y": 614,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_66",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 67: Behind Waterfall <> Water Reservoir",
+        "access_rules": [
+          "^$DoorAccess|67"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|67"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 697,
+            "y": 543,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_67",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 68: Cold Introduction <> Speed Hallway",
+        "access_rules": [
+          "^$DoorAccess|68"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|68"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 829,
+            "y": 895,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_68",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 69: Navigation Station North <> Arbitrary Enky Room",
+        "access_rules": [
+          "^$DoorAccess|69"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|69"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1706,
+            "y": 385,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_69",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 70: Path to Thermal Device <> Thermal Device",
+        "access_rules": [
+          "^$DoorAccess|70"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|70"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2100,
+            "y": 477,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_70",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 71: Path to Thermal Device <> Thermal Device",
+        "access_rules": [
+          "^$DoorAccess|71"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|71"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2100,
+            "y": 451,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_71",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 72: Path to Corpius <> Phantom Cloak Tutorial",
+        "access_rules": [
+          "^$DoorAccess|72"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|72"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1925,
+            "y": 543,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Sensor Lock)",
+            "item_count": 0,
+            "hosted_item": "door_72",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Sensor Lock doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_sensor_lock_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 73: Save Station North <> Shinespark Tower to Grapple",
+        "access_rules": [
+          "^$DoorAccess|73"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|73"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1263,
+            "y": 200,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_73",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 74: Transport to Cataris <> Hot Cataris Shortcut",
+        "access_rules": [
+          "^$DoorAccess|74"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|74"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2622,
+            "y": 350,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_74",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 75: Transport to Cataris <> Lower Path to Cataris",
+        "access_rules": [
+          "^$DoorAccess|75"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|75"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2622,
+            "y": 420,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_75",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 76: Transport to Burenia <> Screw Attack Room",
+        "access_rules": [
+          "^$DoorAccess|76"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|76"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 171,
+            "y": 600,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_76",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 77: Screw Attack Room <> Freezer",
+        "access_rules": [
+          "^$DoorAccess|77"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|77"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 390,
+            "y": 715,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_77",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 78: Screw Attack Room <> Freezer",
+        "access_rules": [
+          "^$DoorAccess|78"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|78"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 390,
+            "y": 640,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_78",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 79: Screw Attack Room <> Shortcut to Screw Attack",
+        "access_rules": [
+          "^$DoorAccess|79"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|79"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 390,
+            "y": 618,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_79",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 80: Freezer <> Red Chozo Arena",
+        "access_rules": [
+          "^$DoorAccess|80"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|80"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 478,
+            "y": 798,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_80",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 81: Speed Hallway <> Red Chozo Arena",
+        "access_rules": [
+          "^$DoorAccess|81"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|81"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 579,
+            "y": 798,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_81",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Dairon",
+        "access_rules": [
+          "^$TransportAccess|1"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1302,
+            "y": 134,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1650,
+            "y": 1691,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_1",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Dairon - Transport to Artaria",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Cataris",
+        "access_rules": [
+          "^$TransportAccess|2"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2668,
+            "y": 337,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 2347,
+            "y": 1795,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_2",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Cataris - Transport to Artaria",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Burenia",
+        "access_rules": [
+          "^$TransportAccess|3"
+        ],
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 123,
+            "y": 600,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1049,
+            "y": 1929,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_3",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Burenia - Transport to Artaria",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Intro Room (Start Point)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|1"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1072,
+            "y": 944,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1533,
+            "y": 2104,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station West (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|2"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 653,
+            "y": 473,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1319,
+            "y": 1864,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station East (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|3"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 2276,
+            "y": 464,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 2147,
+            "y": 1860,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Map Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|4"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 653,
+            "y": 614,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1319,
+            "y": 1936,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station South (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|5"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1750,
+            "y": 605,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1878,
+            "y": 1931,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station North (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|6"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1750,
+            "y": 407,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1878,
+            "y": 1831,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station South (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|7"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1574,
+            "y": 847,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1789,
+            "y": 2055,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station North (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|8"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Artaria",
+            "x": 1307,
+            "y": 200,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1652,
+            "y": 1725,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

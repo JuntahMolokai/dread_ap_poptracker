@@ -1,0 +1,10 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#0c151c",
+    "content": {
+      "type": "layout",
+      "key": "equipment"
+    }
+  }
+}

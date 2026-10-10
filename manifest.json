@@ -1,0 +1,31 @@
+{
+  "name": "Metroid Dread - Archipelago",
+  "game_name": "Metroid Dread",
+  "package_uid": "metroid_dread_ap_map",
+  "package_version": "0.1.0",
+  "platform": "",
+  "author": "JuntahMolokai",
+  "min_poptracker_version": "0.26.2",
+  "target_poptracker_version": "0.34.0",
+  "versions_url": "https://raw.githubusercontent.com/JuntahMolokai/dread_ap_poptracker/main/versions.json",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_side_bar": {
+      "display_name": "Map Tracker - Side Bar",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_items_only": {
+      "display_name": "Item Tracker",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

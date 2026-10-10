@@ -1,0 +1,1870 @@
+[
+  {
+    "name": "Dairon",
+    "children": [
+      {
+        "name": "Dairon: Teleport to Artaria",
+        "access_rules": [
+          "^$CanReachLocation|31214"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31214"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 2069,
+            "y": 77
+          },
+          {
+            "map": "Combined",
+            "x": 1736,
+            "y": 1267,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Big Hub",
+        "access_rules": [
+          "^$CanReachLocation|31213"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31213"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1786,
+            "y": 230
+          },
+          {
+            "map": "Combined",
+            "x": 1594,
+            "y": 1344,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Wide Beam Room",
+        "access_rules": [
+          "^$CanReachLocation|31211"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31211"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1534,
+            "y": 288
+          },
+          {
+            "map": "Combined",
+            "x": 1468,
+            "y": 1373,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Early Grapple Access",
+        "access_rules": [
+          "^$CanReachLocation|31218"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31218"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1508,
+            "y": 454
+          },
+          {
+            "map": "Combined",
+            "x": 1455,
+            "y": 1456,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Transport to Artaria",
+        "access_rules": [
+          "^$CanReachLocation|31215"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31215"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1862,
+            "y": 454
+          },
+          {
+            "map": "Combined",
+            "x": 1632,
+            "y": 1456,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Early Grapple Room - Missile Tank Speedboost",
+        "access_rules": [
+          "^$CanReachLocation|31209"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31209"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1813,
+            "y": 517
+          },
+          {
+            "map": "Combined",
+            "x": 1607,
+            "y": 1487,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Early Grapple Room - Missile Tank Tunnel",
+        "access_rules": [
+          "^$CanReachLocation|31210"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31210"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1690,
+            "y": 445
+          },
+          {
+            "map": "Combined",
+            "x": 1546,
+            "y": 1451,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Shinespark Tutorial",
+        "access_rules": [
+          "^$CanReachLocation|31225"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31225"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1102,
+            "y": 324
+          },
+          {
+            "map": "Combined",
+            "x": 1252,
+            "y": 1391,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: EMMI Zone Exit North",
+        "access_rules": [
+          "^$CanReachLocation|31227"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31227"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1247,
+            "y": 180
+          },
+          {
+            "map": "Combined",
+            "x": 1324,
+            "y": 1319,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Yellow EMMI Introduction",
+        "access_rules": [
+          "^$CanReachLocation|31217"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31217"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1383,
+            "y": 180
+          },
+          {
+            "map": "Combined",
+            "x": 1392,
+            "y": 1319,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Cross Bomb Puzzle Room",
+        "access_rules": [
+          "^$CanReachLocation|31229"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31229"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1133,
+            "y": 225
+          },
+          {
+            "map": "Combined",
+            "x": 1268,
+            "y": 1342,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Bomb Room - Bomb",
+        "access_rules": [
+          "^$CanReachLocation|31212"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31212"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1088,
+            "y": 104
+          },
+          {
+            "map": "Combined",
+            "x": 1244,
+            "y": 1276,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Bomb Room - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31216"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31216"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1096,
+            "y": 135
+          },
+          {
+            "map": "Combined",
+            "x": 1250,
+            "y": 1301,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Freezer - Missile Tank - Lower",
+        "access_rules": [
+          "^$CanReachLocation|31221"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31221"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 708,
+            "y": 310
+          },
+          {
+            "map": "Combined",
+            "x": 1055,
+            "y": 1384,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Freezer - Missile Tank - Upper",
+        "access_rules": [
+          "^$CanReachLocation|31230"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31230"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 697,
+            "y": 185
+          },
+          {
+            "map": "Combined",
+            "x": 1049,
+            "y": 1321,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: EMMI Zone Exit Northwest",
+        "access_rules": [
+          "^$CanReachLocation|31220"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31220"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 862,
+            "y": 409
+          },
+          {
+            "map": "Combined",
+            "x": 1132,
+            "y": 1433,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Hidden Grapple Shortcut Room",
+        "access_rules": [
+          "^$CanReachLocation|31228"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31228"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 670,
+            "y": 449
+          },
+          {
+            "map": "Combined",
+            "x": 1036,
+            "y": 1454,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Save Station West Tunnels",
+        "access_rules": [
+          "^$CanReachLocation|31223"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31223"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 594,
+            "y": 444
+          },
+          {
+            "map": "Combined",
+            "x": 998,
+            "y": 1451,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Storm Missile Gate Room",
+        "access_rules": [
+          "^$CanReachLocation|31222"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31222"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 884,
+            "y": 556
+          },
+          {
+            "map": "Combined",
+            "x": 1143,
+            "y": 1507,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Lake Puzzle Room",
+        "access_rules": [
+          "^$CanReachLocation|31219"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31219"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1098,
+            "y": 565
+          },
+          {
+            "map": "Combined",
+            "x": 1250,
+            "y": 1511,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Central Unit Access - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31226"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31226"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 679,
+            "y": 678
+          },
+          {
+            "map": "Combined",
+            "x": 1041,
+            "y": 1569,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Dairon: E.M.M.I.-04SB",
+        "access_rules": [
+          "^$CanReachLocation|31301"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31301"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 663,
+            "y": 633
+          },
+          {
+            "map": "Combined",
+            "x": 1032,
+            "y": 1545,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/missile_tank.png"
+          }
+        ]
+      },
+      {
+        "name": "Dairon: Energy Recharge Station West",
+        "access_rules": [
+          "^$CanReachLocation|31224"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31224"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 641,
+            "y": 104
+          },
+          {
+            "map": "Combined",
+            "x": 1022,
+            "y": 1281,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Door 148: Save Station East <> Teleport to Artaria",
+        "access_rules": [
+          "^$DoorAccess|148"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|148"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 2002,
+            "y": 212,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_148",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 149: Save Station East <> Hub Access",
+        "access_rules": [
+          "^$DoorAccess|149"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|149"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1913,
+            "y": 212,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_149",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 150: Teleport to Artaria <> Transport to Cataris",
+        "access_rules": [
+          "^$DoorAccess|150"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|150"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 2198,
+            "y": 167,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_150",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 151: Big Hub <> Wide Beam Room",
+        "access_rules": [
+          "^$DoorAccess|151"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|151"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1557,
+            "y": 315,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Wide)",
+            "item_count": 0,
+            "hosted_item": "door_151",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Wide doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_wide_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 152: EMMI Zone Exit East <> Yellow EMMI Introduction",
+        "access_rules": [
+          "^$DoorAccess|152"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|152"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1557,
+            "y": 207,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_152",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 153: Early Grapple Access <> Heated Room West",
+        "access_rules": [
+          "^$DoorAccess|153"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|153"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1468,
+            "y": 467,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_153",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 154: Transport to Artaria <> Early Grapple Room",
+        "access_rules": [
+          "^$DoorAccess|154"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|154"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1824,
+            "y": 490,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_154",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 155: Heated Room West <> Navigation Station South",
+        "access_rules": [
+          "^$DoorAccess|155"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|155"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1334,
+            "y": 481,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_155",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 156: Navigation Station South <> Energy Recharge Station Middle",
+        "access_rules": [
+          "^$DoorAccess|156"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|156"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1245,
+            "y": 481,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_156",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 157: Shinespark Tutorial <> EMMI Zone Exit North",
+        "access_rules": [
+          "^$DoorAccess|157"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|157"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1156,
+            "y": 288,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_157",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 158: Shinespark Tutorial <> EMMI Zone Exit Northwest",
+        "access_rules": [
+          "^$DoorAccess|158"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|158"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 933,
+            "y": 409,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_158",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 159: West Transport to Ferenia <> Navigation Station North",
+        "access_rules": [
+          "^$DoorAccess|159"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|159"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1423,
+            "y": 140,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_159",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 160: West Transport to Ferenia <> Navigation Station North",
+        "access_rules": [
+          "^$DoorAccess|160"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|160"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1423,
+            "y": 118,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_160",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 161: EMMI Zone Exit Northwest <> EMMI Zone Exit West",
+        "access_rules": [
+          "^$DoorAccess|161"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|161"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 844,
+            "y": 449,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_161",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 162: Experiment Z-57 Test Chamber <> Hidden Grapple Shortcut Room",
+        "access_rules": [
+          "^$DoorAccess|162"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|162"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 710,
+            "y": 373,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_162",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 163: EMMI Zone Exit West <> EMMI Zone Exit Southwest",
+        "access_rules": [
+          "^$DoorAccess|163"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|163"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 710,
+            "y": 561,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_163",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 164: Storm Missile Gate Room <> Ammo Recharge Station",
+        "access_rules": [
+          "^$DoorAccess|164"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|164"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 933,
+            "y": 633,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_164",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 165: EMMI Zone Exit South <> Central Unit Access",
+        "access_rules": [
+          "^$DoorAccess|165"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|165"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 712,
+            "y": 790,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_165",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 166: Burenia Upper Transport Access <> Upper Transport to Burenia",
+        "access_rules": [
+          "^$DoorAccess|166"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|166"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 403,
+            "y": 597,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_166",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 167: Burenia Lower Transport Access <> Lower Transport to Burenia",
+        "access_rules": [
+          "^$DoorAccess|167"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|167"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 465,
+            "y": 835,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_167",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: East Transport to Ferenia",
+        "access_rules": [
+          "^$TransportAccess|10"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1877,
+            "y": 109,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1640,
+            "y": 1283,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_10",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ferenia - East Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Artaria",
+        "access_rules": [
+          "^$TransportAccess|11"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1895,
+            "y": 490,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1649,
+            "y": 1474,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_11",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Artaria - Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: West Transport to Ferenia",
+        "access_rules": [
+          "^$TransportAccess|12"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1370,
+            "y": 113,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1386,
+            "y": 1286,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_12",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ferenia - Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Cataris",
+        "access_rules": [
+          "^$TransportAccess|13"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 2383,
+            "y": 167,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1893,
+            "y": 1313,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_13",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Cataris - Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Lower Transport to Burenia",
+        "access_rules": [
+          "^$TransportAccess|14"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 334,
+            "y": 835,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 868,
+            "y": 1646,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_14",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Burenia - Lower Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Upper Transport to Burenia",
+        "access_rules": [
+          "^$TransportAccess|15"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 222,
+            "y": 597,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 812,
+            "y": 1528,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_15",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Burenia - Upper Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ghavoran",
+        "access_rules": [
+          "^$TransportAccess|16"
+        ],
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 534,
+            "y": 194,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 968,
+            "y": 1326,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_16",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ghavoran - Transport to Dairon",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station East (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|20"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1958,
+            "y": 212,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1680,
+            "y": 1335,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station South (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|21"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1289,
+            "y": 481,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1346,
+            "y": 1469,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Map Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|22"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 888,
+            "y": 122,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1145,
+            "y": 1290,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station West (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|23"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 487,
+            "y": 458,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 945,
+            "y": 1458,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station North (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|24"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Dairon",
+            "x": 1468,
+            "y": 140,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1435,
+            "y": 1299,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

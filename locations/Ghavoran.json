@@ -1,0 +1,2150 @@
+[
+  {
+    "name": "Ghavoran",
+    "children": [
+      {
+        "name": "Ghavoran: Right Entrance",
+        "access_rules": [
+          "^$CanReachLocation|31251"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31251"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 369,
+            "y": 664
+          },
+          {
+            "map": "Combined",
+            "x": 224,
+            "y": 1131,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Left Entrance",
+        "access_rules": [
+          "^$CanReachLocation|31262"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31262"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 215,
+            "y": 610
+          },
+          {
+            "map": "Combined",
+            "x": 148,
+            "y": 1104,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Dairon Transport Access",
+        "access_rules": [
+          "^$CanReachLocation|31253"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31253"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 747,
+            "y": 633
+          },
+          {
+            "map": "Combined",
+            "x": 414,
+            "y": 1115,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Super Missile Room Access",
+        "access_rules": [
+          "^$CanReachLocation|31256"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31256"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 594,
+            "y": 570
+          },
+          {
+            "map": "Combined",
+            "x": 337,
+            "y": 1084,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Super Missile Room",
+        "access_rules": [
+          "^$CanReachLocation|31254"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31254"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 512,
+            "y": 650
+          },
+          {
+            "map": "Combined",
+            "x": 296,
+            "y": 1124,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: E.M.M.I.-05IM",
+        "access_rules": [
+          "^$CanReachLocation|31300"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31300"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 496,
+            "y": 176
+          },
+          {
+            "map": "Combined",
+            "x": 288,
+            "y": 887,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/energy_part.png"
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Spin Boost Tower - Power Bomb Tank",
+        "access_rules": [
+          "^$CanReachLocation|31250"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31250"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 739,
+            "y": 54
+          },
+          {
+            "map": "Combined",
+            "x": 409,
+            "y": 826,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Spin Boost Tower - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31259"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31259"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 690,
+            "y": 346
+          },
+          {
+            "map": "Combined",
+            "x": 385,
+            "y": 972,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Spin Boost Tower - Energy Tank",
+        "access_rules": [
+          "^$CanReachLocation|31263"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31263"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 783,
+            "y": 176
+          },
+          {
+            "map": "Combined",
+            "x": 432,
+            "y": 887,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Golzuna Tower - Energy Part",
+        "access_rules": [
+          "^$CanReachLocation|31266"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31266"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 948,
+            "y": 46
+          },
+          {
+            "map": "Combined",
+            "x": 514,
+            "y": 822,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Golzuna Tower - Missile Tank",
+        "access_rules": [
+          "^$CanReachLocation|31267"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31267"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 937,
+            "y": 196
+          },
+          {
+            "map": "Combined",
+            "x": 508,
+            "y": 897,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Teleport to Burenia",
+        "access_rules": [
+          "^$CanReachLocation|31257"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31257"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 997,
+            "y": 270
+          },
+          {
+            "map": "Combined",
+            "x": 535,
+            "y": 931,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Total Recharge Station North",
+        "access_rules": [
+          "^$CanReachLocation|31261"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31261"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1019,
+            "y": 293
+          },
+          {
+            "map": "Combined",
+            "x": 553,
+            "y": 949,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Golzuna",
+        "access_rules": [
+          "^$CanReachLocation|31299"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31299"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1139,
+            "y": 160
+          },
+          {
+            "map": "Combined",
+            "x": 610,
+            "y": 879,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1,
+            "chest_unopened_img": "images/items/missile_tank.png"
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Map Station Access Secret",
+        "access_rules": [
+          "^$CanReachLocation|31255"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31255"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 649,
+            "y": 418
+          },
+          {
+            "map": "Combined",
+            "x": 365,
+            "y": 1008,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Elun Transport Access",
+        "access_rules": [
+          "^$CanReachLocation|31265"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31265"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 676,
+            "y": 503
+          },
+          {
+            "map": "Combined",
+            "x": 378,
+            "y": 1050,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Spin Boost Room",
+        "access_rules": [
+          "^$CanReachLocation|31258"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31258"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 824,
+            "y": 350
+          },
+          {
+            "map": "Combined",
+            "x": 452,
+            "y": 974,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Pulse Radar Room",
+        "access_rules": [
+          "^$CanReachLocation|31264"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31264"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 847,
+            "y": 152
+          },
+          {
+            "map": "Combined",
+            "x": 463,
+            "y": 875,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Cross Bomb Tutorial",
+        "access_rules": [
+          "^$CanReachLocation|31252"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31252"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1246,
+            "y": 158
+          },
+          {
+            "map": "Combined",
+            "x": 663,
+            "y": 878,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Ghavoran: Above Pulse Radar",
+        "access_rules": [
+          "^$CanReachLocation|31260"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31260"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 886,
+            "y": 91
+          },
+          {
+            "map": "Combined",
+            "x": 483,
+            "y": 845,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Door 208: Transport to Burenia <> Left Entrance",
+        "access_rules": [
+          "^$DoorAccess|208"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|208"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 226,
+            "y": 655,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_208",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 209: Transport to Burenia <> Right Entrance",
+        "access_rules": [
+          "^$DoorAccess|209"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|209"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 360,
+            "y": 655,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_209",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 210: Right Entrance <> Robot Fight Arena",
+        "access_rules": [
+          "^$DoorAccess|210"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|210"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 378,
+            "y": 561,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_210",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 211: Right Entrance <> Spider Magnet Elevator",
+        "access_rules": [
+          "^$DoorAccess|211"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|211"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 494,
+            "y": 575,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Super Missile)",
+            "item_count": 0,
+            "hosted_item": "door_211",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Super Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_super_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 212: Right Entrance <> Super Missile Room",
+        "access_rules": [
+          "^$DoorAccess|212"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|212"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 494,
+            "y": 619,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_212",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 213: Robot Fight Arena <> Left Entrance",
+        "access_rules": [
+          "^$DoorAccess|213"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|213"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 226,
+            "y": 561,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_213",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 214: Blue EMMI Introduction <> EMMI Zone Exit Southeast",
+        "access_rules": [
+          "^$DoorAccess|214"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|214"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 360,
+            "y": 422,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_214",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 215: Navigation Station Access <> Navigation Station",
+        "access_rules": [
+          "^$DoorAccess|215"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|215"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 494,
+            "y": 490,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_215",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 216: Navigation Station <> Flipper Room",
+        "access_rules": [
+          "^$DoorAccess|216"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|216"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 583,
+            "y": 490,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_216",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 217: Flipper Room <> Elun Transport Access",
+        "access_rules": [
+          "^$DoorAccess|217"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|217"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 672,
+            "y": 534,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Super Missile)",
+            "item_count": 0,
+            "hosted_item": "door_217",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Super Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_super_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 218: Dairon Transport Access <> Transport to Dairon",
+        "access_rules": [
+          "^$DoorAccess|218"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|218"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 894,
+            "y": 619,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_218",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 219: Dairon Transport Access <> Super Missile Room Access",
+        "access_rules": [
+          "^$DoorAccess|219"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|219"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 673,
+            "y": 607,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_219",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 220: Super Missile Room Access <> Super Missile Room",
+        "access_rules": [
+          "^$DoorAccess|220"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|220"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 583,
+            "y": 619,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Super Missile)",
+            "item_count": 0,
+            "hosted_item": "door_220",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Super Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_super_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 221: Super Missile Room Access <> Super Missile Room",
+        "access_rules": [
+          "^$DoorAccess|221"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|221"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 583,
+            "y": 664,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_221",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 222: EMMI Zone Exit Southeast <> EMMI Zone Exit West",
+        "access_rules": [
+          "^$DoorAccess|222"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|222"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 360,
+            "y": 382,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Open Frame)",
+            "item_count": 0,
+            "hosted_item": "door_222",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Open Frame doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_access_open",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 223: EMMI Zone Exit West <> EMMI Zone Middle Path",
+        "access_rules": [
+          "^$DoorAccess|223"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|223"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 360,
+            "y": 261,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_223",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 224: EMMI Zone Exit West <> EMMI Zone Middle Path",
+        "access_rules": [
+          "^$DoorAccess|224"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|224"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 360,
+            "y": 234,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_224",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 225: EMMI Zone Exit Northwest <> Central Unit Access",
+        "access_rules": [
+          "^$DoorAccess|225"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|225"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 404,
+            "y": 145,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_225",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 226: EMMI Zone Middle Path <> EMMI Zone Exit Northeast",
+        "access_rules": [
+          "^$DoorAccess|226"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|226"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 583,
+            "y": 257,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_226",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 227: Central Unit Access <> EMMI Zone Exit Northeast",
+        "access_rules": [
+          "^$DoorAccess|227"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|227"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 583,
+            "y": 158,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_227",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 228: Central Unit Access <> EMMI Zone Exit Northeast",
+        "access_rules": [
+          "^$DoorAccess|228"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|228"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 583,
+            "y": 190,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_228",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 229: Spin Boost Tower <> Above Pulse Radar",
+        "access_rules": [
+          "^$DoorAccess|229"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|229"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 805,
+            "y": 105,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_229",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 230: Spin Boost Tower <> Save Station Center",
+        "access_rules": [
+          "^$DoorAccess|230"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|230"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 805,
+            "y": 413,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_230",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 231: Save Station Center <> Chozo Warrior Arena",
+        "access_rules": [
+          "^$DoorAccess|231"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|231"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 894,
+            "y": 413,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_231",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 232: Chozo Warrior Arena <> Total Recharge Station North",
+        "access_rules": [
+          "^$DoorAccess|232"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|232"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 997,
+            "y": 387,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_232",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 233: Golzuna Tower <> Energy Recharge Station",
+        "access_rules": [
+          "^$DoorAccess|233"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|233"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 894,
+            "y": 252,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_233",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 234: Golzuna Tower <> Above Pulse Radar",
+        "access_rules": [
+          "^$DoorAccess|234"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|234"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 894,
+            "y": 64,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Charge)",
+            "item_count": 0,
+            "hosted_item": "door_234",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Charge doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_charge_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 235: Teleport to Burenia <> Total Recharge Station North",
+        "access_rules": [
+          "^$DoorAccess|235"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|235"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1028,
+            "y": 270,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_235",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 236: Teleport to Burenia <> Total Recharge Station North",
+        "access_rules": [
+          "^$DoorAccess|236"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|236"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 997,
+            "y": 324,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_236",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 237: Golzuna Arena <> Cross Bomb Tutorial",
+        "access_rules": [
+          "^$DoorAccess|237"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|237"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1162,
+            "y": 163,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_237",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 238: Elun Transport Access <> Transport to Elun",
+        "access_rules": [
+          "^$DoorAccess|238"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|238"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 894,
+            "y": 534,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Grapple)",
+            "item_count": 0,
+            "hosted_item": "door_238",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Grapple doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_grapple_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 239: Cross Bomb Tutorial <> Above Golzuna",
+        "access_rules": [
+          "^$DoorAccess|239"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|239"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1162,
+            "y": 105,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_239",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 240: Cross Bomb Tutorial <> Transport to Hanubia",
+        "access_rules": [
+          "^$DoorAccess|240"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|240"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1251,
+            "y": 105,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_240",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Burenia",
+        "access_rules": [
+          "^$TransportAccess|22"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 291,
+            "y": 655,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 185,
+            "y": 1127,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_22",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Burenia - Transport to Ghavoran",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ferenia",
+        "access_rules": [
+          "^$TransportAccess|23"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1391,
+            "y": 288,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 736,
+            "y": 943,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_23",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ferenia - Transport to Ghavoran",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Hanubia",
+        "access_rules": [
+          "^$TransportAccess|24"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1489,
+            "y": 105,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 785,
+            "y": 851,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_24",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Hanubia - Transport to Ghavoran",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Elun",
+        "access_rules": [
+          "^$TransportAccess|25"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1044,
+            "y": 534,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 562,
+            "y": 1066,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_25",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Elun - Transport to Ghavoran",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Dairon",
+        "access_rules": [
+          "^$TransportAccess|26"
+        ],
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 941,
+            "y": 619,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 511,
+            "y": 1109,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_26",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Dairon - Transport to Ghavoran",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Navigation Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|30"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 538,
+            "y": 490,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 309,
+            "y": 1044,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Map Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|31"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 627,
+            "y": 369,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 354,
+            "y": 983,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station Center (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|32"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 850,
+            "y": 413,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 465,
+            "y": 1006,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station East (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|33"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Ghavoran",
+            "x": 1073,
+            "y": 234,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 576,
+            "y": 916,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

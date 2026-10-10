@@ -1,0 +1,372 @@
+{
+  "maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Artaria",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Artaria"
+          ]
+        }
+      },
+      {
+        "title": "Burenia",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Burenia"
+          ]
+        }
+      },
+      {
+        "title": "Cataris",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Cataris"
+          ]
+        }
+      },
+      {
+        "title": "Dairon",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Dairon"
+          ]
+        }
+      },
+      {
+        "title": "Elun",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Elun"
+          ]
+        }
+      },
+      {
+        "title": "Ferenia",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Ferenia"
+          ]
+        }
+      },
+      {
+        "title": "Ghavoran",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Ghavoran"
+          ]
+        }
+      },
+      {
+        "title": "Hanubia",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Hanubia"
+          ]
+        }
+      },
+      {
+        "title": "Itorash",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Itorash"
+          ]
+        }
+      },
+      {
+        "title": "World",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Combined"
+          ]
+        }
+      }
+    ]
+  },
+  "seed_info": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Door Types",
+        "content": {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "6,6",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "3,3",
+              "item_size": 36,
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "doortype_access_open",
+                  "doortype_charge_beam_door",
+                  "doortype_grapple_beam_door",
+                  "doortype_missile_door",
+                  "doortype_plasma_beam_door"
+                ],
+                [
+                  "doortype_power_beam_door",
+                  "doortype_sensor_lock_door",
+                  "doortype_super_missile_door",
+                  "doortype_wave_beam_door",
+                  "doortype_wide_beam_door"
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "Transports",
+        "content": {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "6,6",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "3,3",
+              "item_size": 36,
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "transport_1",
+                  "transport_2",
+                  "transport_3",
+                  "transport_4",
+                  "transport_5",
+                  "transport_6",
+                  "transport_7",
+                  "transport_8"
+                ],
+                [
+                  "transport_9",
+                  "transport_10",
+                  "transport_11",
+                  "transport_12",
+                  "transport_13",
+                  "transport_14",
+                  "transport_15",
+                  "transport_16"
+                ],
+                [
+                  "transport_17",
+                  "transport_18",
+                  "transport_19",
+                  "transport_20",
+                  "transport_21",
+                  "transport_22",
+                  "transport_23",
+                  "transport_24"
+                ],
+                [
+                  "transport_25",
+                  "transport_26",
+                  "transport_27",
+                  "transport_28",
+                  "transport_29",
+                  "transport_30"
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "Tricks",
+        "content": {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "6,6",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "3,3",
+              "item_size": 36,
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "trick_knowledge",
+                  "trick_movement",
+                  "trick_combat",
+                  "trick_pseudo",
+                  "trick_ibj",
+                  "trick_wbj",
+                  "trick_wsj"
+                ],
+                [
+                  "trick_swj",
+                  "trick_slide",
+                  "trick_speedbooster",
+                  "trick_walljump",
+                  "trick_suitless",
+                  "trick_rgrapple",
+                  "trick_dboost"
+                ],
+                [
+                  "trick_frozenenemy",
+                  "trick_grapplemovement",
+                  "trick_crossskip",
+                  "trick_tunnelslope",
+                  "trick_shortboost",
+                  "trick_diffusionabuse",
+                  "trick_flashskip"
+                ],
+                [
+                  "trick_dbj",
+                  "trick_ledgewarp",
+                  "trick_cbl",
+                  "trick_floorclip",
+                  "trick_slopeclimb"
+                ]
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "title": "Settings",
+        "content": {
+          "type": "array",
+          "orientation": "vertical",
+          "margin": "6,6",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "3,3",
+              "item_size": 36,
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "auto_doors",
+                  "auto_transports",
+                  "auto_maptab"
+                ]
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "equipment": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "6,6",
+    "content": [
+      {
+        "type": "itemgrid",
+        "item_margin": "3,3",
+        "item_size": 36,
+        "h_alignment": "left",
+        "rows": [
+          [
+            "wide_beam",
+            "plasma_beam",
+            "wave_beam",
+            "charge_beam",
+            "diffusion_beam",
+            "grapple_beam",
+            "super_missile",
+            "ice_missile",
+            "storm_missile"
+          ],
+          [
+            "morph_ball",
+            "bomb",
+            "cross_bomb",
+            "power_bomb",
+            "varia_suit",
+            "gravity_suit",
+            "spin_boost",
+            "space_jump",
+            "screw_attack"
+          ],
+          [
+            "spider_magnet",
+            "speed_booster",
+            "flash_shift",
+            "phantom_cloak",
+            "pulse_radar",
+            "slide",
+            "energy_tank",
+            "energy_part",
+            "missile_tank"
+          ],
+          [
+            "missile_plus_tank",
+            "power_bomb_tank",
+            "flash_shift_upgrade",
+            "speed_booster_upgrade",
+            "metroid_dna",
+            "goal"
+          ]
+        ]
+      }
+    ]
+  },
+  "tracker_default": {
+    "type": "container",
+    "background": "#0c151c",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "bottom",
+          "content": [
+            {
+              "type": "group",
+              "header": "Equipment",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "equipment"
+              }
+            },
+            {
+              "type": "group",
+              "header": "Seed",
+              "dock": "left",
+              "content": {
+                "type": "layout",
+                "key": "seed_info"
+              }
+            },
+            {
+              "type": "array",
+              "dock": "left",
+              "content": []
+            }
+          ]
+        },
+        {
+          "type": "layout",
+          "key": "maps"
+        }
+      ]
+    }
+  },
+  "tracker_broadcast": {
+    "type": "container",
+    "background": "#00ff00",
+    "content": {
+      "type": "layout",
+      "key": "equipment"
+    }
+  }
+}

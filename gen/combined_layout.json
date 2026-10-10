@@ -1,0 +1,52 @@
+{
+  "_comment": "Registered against dread world map.png by gen/register_world_map.py (scale 0.5). See gen/combined.py for the format.",
+  "scale": 0.5,
+  "margin": 40,
+  "regions": {
+    "Artaria": {
+      "x": 946.0,
+      "y": 1583.0,
+      "scale": 0.51
+    },
+    "Cataris": {
+      "x": 1773.0,
+      "y": 1187.0,
+      "scale": 0.51
+    },
+    "Dairon": {
+      "x": 661.0,
+      "y": 1189.0,
+      "scale": 0.5
+    },
+    "Burenia": {
+      "x": 193.0,
+      "y": 1292.0,
+      "scale": 0.51
+    },
+    "Ghavoran": {
+      "x": 0.0,
+      "y": 759.0,
+      "scale": 0.5
+    },
+    "Elun": {
+      "x": 581.0,
+      "y": 814.0,
+      "scale": 0.5
+    },
+    "Ferenia": {
+      "x": 1057.0,
+      "y": 745.0,
+      "scale": 0.5
+    },
+    "Hanubia": {
+      "x": 1135.0,
+      "y": 350.0,
+      "scale": 0.4975
+    },
+    "Itorash": {
+      "x": 1677.0,
+      "y": 0.0,
+      "scale": 0.5
+    }
+  }
+}

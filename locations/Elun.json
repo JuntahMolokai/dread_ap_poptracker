@@ -1,0 +1,560 @@
+[
+  {
+    "name": "Elun",
+    "children": [
+      {
+        "name": "Elun: Ammo Recharge Station",
+        "access_rules": [
+          "^$CanReachLocation|31268"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31268"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 968,
+            "y": 354
+          },
+          {
+            "map": "Combined",
+            "x": 1105,
+            "y": 1031,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Elun: Plasma Beam Room",
+        "access_rules": [
+          "^$CanReachLocation|31269"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31269"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1091,
+            "y": 497
+          },
+          {
+            "map": "Combined",
+            "x": 1166,
+            "y": 1103,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Elun: Fan Room",
+        "access_rules": [
+          "^$CanReachLocation|31271"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31271"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1143,
+            "y": 514
+          },
+          {
+            "map": "Combined",
+            "x": 1193,
+            "y": 1111,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Elun: Vertical Bomb Maze",
+        "access_rules": [
+          "^$CanReachLocation|31270"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31270"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1258,
+            "y": 409
+          },
+          {
+            "map": "Combined",
+            "x": 1250,
+            "y": 1058,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Elun: Horizontal Bomb Maze",
+        "access_rules": [
+          "^$CanReachLocation|31272"
+        ],
+        "visibility_rules": [
+          "$LocationExists|31272"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1172,
+            "y": 292
+          },
+          {
+            "map": "Combined",
+            "x": 1207,
+            "y": 1000,
+            "size": 32,
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Pickup",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Door 168: Transport to Ghavoran <> Save Station",
+        "access_rules": [
+          "^$DoorAccess|168"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|168"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 350,
+            "y": 422,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_168",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 169: Purple Drapes <> Ammo Recharge Station",
+        "access_rules": [
+          "^$DoorAccess|169"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|169"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 930,
+            "y": 417,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_169",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 170: Ammo Recharge Station <> Chozo Soldier Arena",
+        "access_rules": [
+          "^$DoorAccess|170"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|170"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1020,
+            "y": 379,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_170",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 171: Ammo Recharge Station <> Gyroscope Room",
+        "access_rules": [
+          "^$DoorAccess|171"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|171"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1020,
+            "y": 409,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_171",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 172: Ammo Recharge Station <> Plasma Beam Room",
+        "access_rules": [
+          "^$DoorAccess|172"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|172"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1022,
+            "y": 510,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_172",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 173: Ammo Recharge Station <> Plasma Beam Room",
+        "access_rules": [
+          "^$DoorAccess|173"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|173"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1022,
+            "y": 536,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Missile)",
+            "item_count": 0,
+            "hosted_item": "door_173",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Missile doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_missile_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 174: Gyroscope Room <> Spider Magnet Room",
+        "access_rules": [
+          "^$DoorAccess|174"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|174"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1122,
+            "y": 426,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Plasma)",
+            "item_count": 0,
+            "hosted_item": "door_174",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Plasma doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_plasma_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 175: Gyroscope Room <> Fan Room",
+        "access_rules": [
+          "^$DoorAccess|175"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|175"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 1122,
+            "y": 451,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_175",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Door 176: Exterior Bridge <> Save Station",
+        "access_rules": [
+          "^$DoorAccess|176"
+        ],
+        "visibility_rules": [
+          "$DoorPinVisible|176"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 439,
+            "y": 422,
+            "size": 16,
+            "border_thickness": 2,
+            "shape": "diamond"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Lock (vanilla: Power)",
+            "item_count": 0,
+            "hosted_item": "door_176",
+            "visibility_rules": [
+              "$DoorModeIs|individual"
+            ]
+          },
+          {
+            "name": "Power doors become",
+            "item_count": 0,
+            "hosted_item": "doortype_power_beam_door",
+            "visibility_rules": [
+              "$DoorModeIs|types"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Transport: Transport to Ghavoran",
+        "access_rules": [
+          "^$TransportAccess|17"
+        ],
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 227,
+            "y": 422,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 735,
+            "y": 1065,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_17",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Ghavoran - Transport to Elun",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Start: Save Station (Save Station)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|25"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Elun",
+            "x": 395,
+            "y": 422,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 818,
+            "y": 1065,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

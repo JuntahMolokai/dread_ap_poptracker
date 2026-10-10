@@ -1,0 +1,112 @@
+[
+  {
+    "name": "Itorash",
+    "children": [
+      {
+        "name": "Transport: Transport to Hanubia",
+        "access_rules": [
+          "^$TransportAccess|30"
+        ],
+        "map_locations": [
+          {
+            "map": "Itorash",
+            "x": 147,
+            "y": 401,
+            "size": 24,
+            "shape": "trapezoid"
+          },
+          {
+            "map": "Combined",
+            "x": 1783,
+            "y": 240,
+            "size": 28,
+            "shape": "trapezoid",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Destination",
+            "item_count": 0,
+            "hosted_item": "transport_30",
+            "visibility_rules": [
+              "$TransportRandoOn"
+            ]
+          },
+          {
+            "name": "Goes to Hanubia - Transport to Itorash",
+            "item_count": 0,
+            "visibility_rules": [
+              "$TransportRandoOff"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Goal: Escape Raven Beak",
+        "access_rules": [
+          "^$GoalAccess"
+        ],
+        "map_locations": [
+          {
+            "map": "Itorash",
+            "x": 577,
+            "y": 99,
+            "size": 30,
+            "shape": "diamond"
+          },
+          {
+            "map": "Combined",
+            "x": 2006,
+            "y": 90,
+            "size": 36,
+            "shape": "diamond",
+            "border_thickness": 4
+          }
+        ],
+        "sections": [
+          {
+            "name": "Defeat Raven Beak and escape",
+            "item_count": 0,
+            "hosted_item": "goal"
+          }
+        ]
+      },
+      {
+        "name": "Start: Transport to Hanubia (Elevator to Hanubia)",
+        "access_rules": [
+          "^$StartPointAccess"
+        ],
+        "visibility_rules": [
+          "$IsStartPoint|35"
+        ],
+        "chest_unopened_img": "images/items/start.png",
+        "chest_opened_img": "images/items/start.png",
+        "map_locations": [
+          {
+            "map": "Itorash",
+            "x": 165,
+            "y": 401,
+            "size": 34,
+            "border_thickness": 4,
+            "shape": "rect"
+          },
+          {
+            "map": "Combined",
+            "x": 1808,
+            "y": 240,
+            "size": 40,
+            "border_thickness": 4,
+            "shape": "rect"
+          }
+        ],
+        "sections": [
+          {
+            "name": "Starting point",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

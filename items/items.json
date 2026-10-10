@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Wide Beam",
+    "type": "toggle",
+    "codes": "wide_beam",
+    "img": "images/items/wide_beam.png"
+  },
+  {
+    "name": "Plasma Beam",
+    "type": "toggle",
+    "codes": "plasma_beam",
+    "img": "images/items/plasma_beam.png"
+  },
+  {
+    "name": "Wave Beam",
+    "type": "toggle",
+    "codes": "wave_beam",
+    "img": "images/items/wave_beam.png"
+  },
+  {
+    "name": "Charge Beam",
+    "type": "toggle",
+    "codes": "charge_beam",
+    "img": "images/items/charge_beam.png"
+  },
+  {
+    "name": "Diffusion Beam",
+    "type": "toggle",
+    "codes": "diffusion_beam",
+    "img": "images/items/diffusion_beam.png"
+  },
+  {
+    "name": "Grapple Beam",
+    "type": "toggle",
+    "codes": "grapple_beam",
+    "img": "images/items/grapple_beam.png"
+  },
+  {
+    "name": "Super Missile",
+    "type": "toggle",
+    "codes": "super_missile",
+    "img": "images/items/super_missile.png"
+  },
+  {
+    "name": "Ice Missile",
+    "type": "toggle",
+    "codes": "ice_missile",
+    "img": "images/items/ice_missile.png"
+  },
+  {
+    "name": "Storm Missile",
+    "type": "toggle",
+    "codes": "storm_missile",
+    "img": "images/items/storm_missile.png"
+  },
+  {
+    "name": "Morph Ball",
+    "type": "toggle",
+    "codes": "morph_ball",
+    "img": "images/items/morph_ball.png"
+  },
+  {
+    "name": "Bomb",
+    "type": "toggle",
+    "codes": "bomb",
+    "img": "images/items/bomb.png"
+  },
+  {
+    "name": "Cross Bomb",
+    "type": "toggle",
+    "codes": "cross_bomb",
+    "img": "images/items/cross_bomb.png"
+  },
+  {
+    "name": "Power Bomb",
+    "type": "toggle",
+    "codes": "power_bomb",
+    "img": "images/items/power_bomb.png"
+  },
+  {
+    "name": "Varia Suit",
+    "type": "toggle",
+    "codes": "varia_suit",
+    "img": "images/items/varia_suit.png"
+  },
+  {
+    "name": "Gravity Suit",
+    "type": "toggle",
+    "codes": "gravity_suit",
+    "img": "images/items/gravity_suit.png"
+  },
+  {
+    "name": "Spin Boost",
+    "type": "toggle",
+    "codes": "spin_boost",
+    "img": "images/items/spin_boost.png"
+  },
+  {
+    "name": "Space Jump",
+    "type": "toggle",
+    "codes": "space_jump",
+    "img": "images/items/space_jump.png"
+  },
+  {
+    "name": "Screw Attack",
+    "type": "toggle",
+    "codes": "screw_attack",
+    "img": "images/items/screw_attack.png"
+  },
+  {
+    "name": "Spider Magnet",
+    "type": "toggle",
+    "codes": "spider_magnet",
+    "img": "images/items/spider_magnet.png"
+  },
+  {
+    "name": "Speed Booster",
+    "type": "toggle",
+    "codes": "speed_booster",
+    "img": "images/items/speed_booster.png"
+  },
+  {
+    "name": "Flash Shift",
+    "type": "toggle",
+    "codes": "flash_shift",
+    "img": "images/items/flash_shift.png"
+  },
+  {
+    "name": "Phantom Cloak",
+    "type": "toggle",
+    "codes": "phantom_cloak",
+    "img": "images/items/phantom_cloak.png"
+  },
+  {
+    "name": "Pulse Radar",
+    "type": "toggle",
+    "codes": "pulse_radar",
+    "img": "images/items/pulse_radar.png"
+  },
+  {
+    "name": "Slide",
+    "type": "toggle",
+    "codes": "slide",
+    "img": "images/items/slide.png"
+  },
+  {
+    "name": "Energy Tank",
+    "type": "consumable",
+    "codes": "energy_tank",
+    "img": "images/items/energy_tank.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Energy Part",
+    "type": "consumable",
+    "codes": "energy_part",
+    "img": "images/items/energy_part.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Missile Tank",
+    "type": "consumable",
+    "codes": "missile_tank",
+    "img": "images/items/missile_tank.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Missile+ Tank",
+    "type": "consumable",
+    "codes": "missile_plus_tank",
+    "img": "images/items/missile_plus_tank.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Power Bomb Tank",
+    "type": "consumable",
+    "codes": "power_bomb_tank",
+    "img": "images/items/power_bomb_tank.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Flash Shift Upgrade",
+    "type": "consumable",
+    "codes": "flash_shift_upgrade",
+    "img": "images/items/flash_shift_upgrade.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Speed Booster Upgrade",
+    "type": "consumable",
+    "codes": "speed_booster_upgrade",
+    "img": "images/items/speed_booster_upgrade.png",
+    "min_quantity": 0,
+    "max_quantity": -1,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Metroid DNA",
+    "type": "consumable",
+    "codes": "metroid_dna",
+    "img": "images/items/metroid_dna.png",
+    "min_quantity": 0,
+    "max_quantity": 12,
+    "overlay_background": "#000000"
+  },
+  {
+    "name": "Goal: Escape Raven Beak",
+    "type": "toggle",
+    "codes": "goal",
+    "img": "images/items/goal.png"
+  },
+  {
+    "name": "Settings revision",
+    "type": "consumable",
+    "codes": "settings_rev",
+    "img": "images/items/goal.png",
+    "min_quantity": 0,
+    "max_quantity": -1
+  },
+  {
+    "name": "Seed hash",
+    "type": "consumable",
+    "codes": "seed_hash",
+    "img": "images/items/goal.png",
+    "min_quantity": 0,
+    "max_quantity": -1
+  }
+]

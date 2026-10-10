@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Auto-fill door locks when seen (needs the Dread client room feed)",
+    "type": "toggle",
+    "codes": "auto_doors",
+    "img": "images/settings/auto_doors.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "Auto-fill transport destinations when ridden",
+    "type": "toggle",
+    "codes": "auto_transports",
+    "img": "images/settings/auto_transports.png",
+    "initial_active_state": true
+  },
+  {
+    "name": "Auto-switch the map tab to the region you're in",
+    "type": "toggle",
+    "codes": "auto_maptab",
+    "img": "images/settings/auto_maptab.png",
+    "initial_active_state": true
+  }
+]

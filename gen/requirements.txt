@@ -1,0 +1,9 @@
+# Building the pack (gen/build_pack.py, gen/calibrate.py, gen/zip_pack.py)
+Pillow>=10
+
+# Tests (gen/tests/*.py) run the pack's Lua under Lua 5.4
+lupa>=2
+
+# Optional: gen/register_world_map.py (re-deriving the world-map layout)
+# numpy
+# opencv-python-headless

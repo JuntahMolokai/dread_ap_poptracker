@@ -1,0 +1,10 @@
+# Generator scratch / build output
+# images/ is generated: it includes art fetched from other projects
+# (Randovania) at build time, which this repo doesn't store.
+images/
+gen/build/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
