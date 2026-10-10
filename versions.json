@@ -3,7 +3,7 @@
     {
       "package_version": "0.1.0",
       "download_url": "https://github.com/JuntahMolokai/dread_ap_poptracker/releases/download/0.1.0/metroid_dread_ap_map-0.1.0.zip",
-      "sha256": "4be503c973df9b3f0c045da589095c5af9576a50e1b584a7ec557f8f4640eb4b",
+      "sha256": "dbb615c6885c0c69760e78adde79afc4c6e38003112a4c6b84896ad8464e3404",
       "changelog": [
         "Initial release: full map tracker with apworld logic, door/transport rando, hints, world map."
       ]
